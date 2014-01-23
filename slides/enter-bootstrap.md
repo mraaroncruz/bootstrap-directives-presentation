@@ -1,3 +1,3 @@
 ##  Enter Bootstrap
 
-![](res/half-decent.png)
+![](bootstrap-directives-presentation/res/half-decent.png)
